@@ -1,0 +1,2 @@
+git config --list
+git config --global user.email "haqnawaz99@yahoo.com"
