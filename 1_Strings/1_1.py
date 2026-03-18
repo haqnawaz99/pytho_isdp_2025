@@ -5,10 +5,10 @@ print("Assalamu" + " " + "Alaikum")
 print("Welcome" + " " + "dear" + " " + "students")  
 
 # Example 3: Full name
-print("Maulana" + " " + "Abdul Rahman")  # Output: Maulana Abdul Rahman
+print("Maulana" + " " + "Abdul Rahman")  
 
 # Example 4: Learning statement
-print("We" + " " + "are" + " " + "learning" + " " + "Python")  # Output: We are learning Python
+print("We" + " " + "are" + " " + "learning" + " " + "Python") 
 
 # Example 5: Add punctuation
 print("Let's" + " " + "start" + " " + "our" + " " + "class" + "!")  # Output: Let's start our class!
