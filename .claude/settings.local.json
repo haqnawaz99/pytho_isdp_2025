@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls \"C:/Users/ILI/.claude/projects/\" | sort)",
+      "Read(//c/Users/ILI/.claude/projects/**)",
+      "Bash(xargs ls -t)",
+      "Bash(python3 -c ' *)",
+      "Bash(awk -F/ '{print $NF}')",
+      "Bash(Get-ChildItem -Path \"d:\\\\Haq Nawaz\\\\Teaching\\\\ISDP\\\\2025\\\\Python\\\\code\\\\codex\" -Recurse -Force)",
+      "Bash(Select-Object FullName, PSIsContainer)",
+      "Bash(Sort-Object FullName)",
+      "Bash(ls -la \"d:\\\\Haq Nawaz\\\\Teaching\\\\ISDP\\\\2025\\\\Python\\\\code\\\\\" | grep -i cursor)",
+      "Read(//d/Haq Nawaz/Teaching/ISDP/2025/Python/**)"
+    ],
+    "additionalDirectories": [
+      "D:\\Haq Nawaz\\Teaching\\ISDP\\2025\\Python\\code\\.claude"
+    ]
+  }
+}
