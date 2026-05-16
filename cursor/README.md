@@ -16,13 +16,15 @@ This folder contains the **enhanced course** for mixed **madrasa and school** st
 
 ```
 cursor/
-  README.md                 ← You are here
-  COURSE_MAP.md             ← Full module sequence
-  SETUP_VS_CODE.md          ← Install Python + VS Code (labs)
-  0_Getting_Started/
-  1_Strings/
-  2_Variables/              ← (next phase)
-  ...
+  README.md
+  COURSE_MAP.md
+  SETUP_VS_CODE.md
+  MASTER_MAP.md           ← links to codex + claude
+  LESSON_TEMPLATE.md      ← period planning (from codex)
+  ENHANCEMENTS.md         ← what we adopted from other folders
+  practice_sheets/        ← printable homework (from codex)
+  0_Getting_Started/ … 8_Mini_Projects/
+  9_Advanced_Optional/    ← Year 2 pointer (from claude)
 ```
 
 Each module includes:
@@ -31,6 +33,8 @@ Each module includes:
 - `TEACHER_NOTES.md` — Delivery tips, misconceptions, extensions
 - `ASSESSMENT.md` — Quizzes, checkpoints, rubric
 - `*.py` — Runnable lesson and practice files (no emoji in source)
+
+**Also:** optional labs (`1_urdu_strings.py`, `2_puzzles_optional.py`, `8_6`/`8_7` projects).
 
 ## How to run a lesson
 

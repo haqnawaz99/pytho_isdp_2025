@@ -54,7 +54,9 @@ If students ask “why can’t I do `age + 1` with input?” — explain `input`
 ## Extension
 
 - `2_5` links Module 1 to variables — good bridge before Module 3.
+- **`2_puzzles_optional.py`** — predict output before Run (from claude).
 - Challenge: ask name, print `name.upper()` and length in two lines.
+- Printable homework: `practice_sheets/module_2_practice.md`
 
 ## Link to original folder
 

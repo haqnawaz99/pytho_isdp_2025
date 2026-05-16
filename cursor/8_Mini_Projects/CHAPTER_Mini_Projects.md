@@ -78,6 +78,31 @@ Students will be able to:
 
 ---
 
+## Project 6 — Cricket score helper (optional)
+
+**Skills:** `if`/`elif`, functions, Pakistan context  
+
+**Files:** `8_6_cricket_starter.py`, `8_6_cricket_solution.py`
+
+---
+
+## Project 7 — Rainfall helper (optional)
+
+**Skills:** `float` input, `if`/`elif`, f-strings, weather/agriculture context  
+
+**Files:** `8_7_weather_starter.py`, `8_7_weather_solution.py`
+
+---
+
+## Showcase and marking
+
+- **Presentation day:** `SHOWCASE_AND_REFLECTION.md`  
+- **Marking:** `project_rubric.md` (scale 1–4)  
+- **Teacher guide:** `teacher_project_guidance.md`  
+- **Practice sheet:** `practice_sheets/module_8_practice.md`
+
+---
+
 ## Presentation checklist (each student)
 
 - [ ] Program runs without error  

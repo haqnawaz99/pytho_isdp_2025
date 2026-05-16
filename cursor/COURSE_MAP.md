@@ -119,6 +119,14 @@ Students will be able to:
 | Maktaba book list | strings, lists |
 | Simple fee calculator | operators, input |
 | Student name formatter | strings, methods |
+| Class report (integrated) | lists, dicts, functions |
+| Cricket / Weather (optional) | if, input, f-strings |
+
+See also: `project_rubric.md`, `SHOWCASE_AND_REFLECTION.md`, `practice_sheets/module_8_practice.md`
+
+## Module 9: Advanced (optional, second term)
+
+See `9_Advanced_Optional/README.md` — errors, files, claude capstone pointer.
 
 ---
 

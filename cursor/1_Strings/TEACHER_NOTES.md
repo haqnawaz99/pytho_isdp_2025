@@ -42,8 +42,10 @@ Keep **code 100% English** even when explaining in Urdu.
 
 ## Extensions
 
+- Run **`1_urdu_strings.py`** (adopted from claude) for bilingual classes.
 - Print student list from hard-coded strings (preview of lists).
 - Compare `.capitalize()` vs `.title()` on same string side by side.
+- Printable homework: `practice_sheets/module_1_practice.md`
 
 ## Link to original materials
 

@@ -49,3 +49,11 @@ Total: roughly **2–3 weeks** if 2–3 class periods per week.
 ## Do not assign as homework without lab
 
 Projects need `input()` — hard to grade on paper only.
+
+## New resources (codex adoption)
+
+- `project_rubric.md` — mark presentations 1–4 per skill  
+- `teacher_project_guidance.md` — week-by-week rollout  
+- `SHOWCASE_AND_REFLECTION.md` — final lesson plan  
+- Optional: `8_6` cricket, `8_7` weather for motivated students  
+- `practice_sheets/module_8_practice.md` — planning worksheet

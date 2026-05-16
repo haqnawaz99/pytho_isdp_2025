@@ -10,7 +10,8 @@
       "Bash(Select-Object FullName, PSIsContainer)",
       "Bash(Sort-Object FullName)",
       "Bash(ls -la \"d:\\\\Haq Nawaz\\\\Teaching\\\\ISDP\\\\2025\\\\Python\\\\code\\\\\" | grep -i cursor)",
-      "Read(//d/Haq Nawaz/Teaching/ISDP/2025/Python/**)"
+      "Read(//d/Haq Nawaz/Teaching/ISDP/2025/Python/**)",
+      "PowerShell(Get-ChildItem -Path \"D:\\\\Haq Nawaz\\\\Teaching\\\\ISDP\\\\2025\\\\Python\\\\code\\\\codex\" -Recurse -File | ForEach-Object { $_.FullName } | Sort-Object)"
     ],
     "additionalDirectories": [
       "D:\\Haq Nawaz\\Teaching\\ISDP\\2025\\Python\\code\\.claude"
