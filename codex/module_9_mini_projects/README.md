@@ -22,3 +22,4 @@ Recommended use:
 2. Use one shared class project first, then move to individual or pair work.
 3. Focus on readable code, not feature overload.
 4. Use the rubric to assess understanding, not only whether the code runs.
+5. Use the `project_*_starter.py` files first, then compare with `project_*_solution.py`.
